@@ -35,20 +35,11 @@ module.exports = {
         global.author = global.data.owner
         //global.author = 'The.sad.boy01'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' ву 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.wm = namabot + ' 𝐒𝐤𝐲𝐁𝗼𝐭𝐳-𝐌𝐝'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.colong2 = 'ʙy 𝐀𝐫𝐢𝐟𝐳𝐲𝐧'
         global.kontak2 = [
         ['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'drakblue3@gmail.com', true],
-        ['6282140373458', 'Raxcel-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
         ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true]
         ]
         global.bg = await (await fetch(img)).buffer()
