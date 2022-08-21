@@ -4,7 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['62895347198105', 'Arif XZ', true],
+['6285733690342', 'Kian', true],
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -33,12 +33,12 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 ARIF XZ ✰'
+global.WM = 'sɪᴍᴘʟᴇ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙʏ ᴋɪᴀɴ'
 global.linkgc = 'https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z'
-global.linkig = 'https://www.instagram.com/arifzyn19_'
+global.linkig = ''
 global.deslink = ''
-global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@arifzyn19_'
+global.titlink = 'Folllow me on GitHub'
+global.bodlink = '@Kianganz1'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
